@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://dlops-5b4c6.firebasestorage.app

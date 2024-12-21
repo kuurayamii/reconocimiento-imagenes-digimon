@@ -174,3 +174,7 @@ cython_debug/
 dataset/
 
 model/
+/dataset
+/model
+
+dlops_key.json
